@@ -1,0 +1,6 @@
+commonLabels:
+  app: pgweb
+
+resources:
+- deployment.yaml
+- service.yaml

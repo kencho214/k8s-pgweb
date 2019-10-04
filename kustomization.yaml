@@ -1,0 +1,8 @@
+resources:
+  - commons/namespace.yaml
+  # - commons/ingress.yaml
+
+namespace: devtools
+
+bases:
+  - pgweb
